@@ -3,7 +3,7 @@ Official Implementation of our paper "**Semantics-Consistent Feature Search for 
 
 by Kaiyou Song, Shan Zhang, Zihao An, Zimeng Luo, Tong Wang, and Jin Xie.
 
-**[[arXiv]](https://arxiv.org/abs/2212.06486)**  **[[Paper]](https://arxiv.org/pdf/2212.06486.pdf)**
+**[[arXiv]](https://arxiv.org/abs/2212.06486)**  **[[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Song_Semantics-Consistent_Feature_Search_for_Self-Supervised_Visual_Representation_Learning_ICCV_2023_paper.pdf)**
 
 ## Method
  
@@ -81,10 +81,12 @@ This project is under the Apache License 2.0 license. See [LICENSE](LICENSE) for
 
 ## Citation
 ```bibtex
-@article{song2022semantics,
-  title={Semantics-Consistent Feature Search for Self-Supervised Visual Representation Learning},
-  author={Song, Kaiyou and Zhang, Shan and An, Zihao and Luo, Zimeng and Wang, Tong and Xie, Jin},
-  journal={arXiv preprint arXiv:2212.06486},
-  year={2022}
+@InProceedings{Song_2023_ICCV,
+    author    = {Song, Kaiyou and Zhang, Shan and Luo, Zimeng and Wang, Tong and Xie, Jin},
+    title     = {Semantics-Consistent Feature Search for Self-Supervised Visual Representation Learning},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {16099-16108}
 }
 ```
