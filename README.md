@@ -1,5 +1,5 @@
 # Semantics-Consistent Feature Search for Self-Supervised Visual Representation Learning
-Official Implementation of our paper "**Semantics-Consistent Feature Search for Self-Supervised Visual Representation Learning**". 
+Official Implementation of our paper "**Semantics-Consistent Feature Search for Self-Supervised Visual Representation Learning, ICCV2023.**". 
 
 by Kaiyou Song, Shan Zhang, Zihao An, Zimeng Luo, Tong Wang, and Jin Xie.
 
